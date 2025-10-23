@@ -56,7 +56,7 @@ export default function SimpleMap() {
         <>
             <MapContainer
                 center={[4.66, -74.10]}
-                zoom={13}
+                zoom={10}
                 scrollWheelZoom={true}
                 className="h-full w-full"
             >
